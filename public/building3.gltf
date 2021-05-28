@@ -1,0 +1,470 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 955,
+      "max": [-14.398550033569336, 5.0996599197387695, 1.8323745727539062],
+      "min": [-20.403720855712891, -7.4752826690673828, -6.8775496482849121],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11460,
+      "componentType": 5126,
+      "count": 955,
+      "max": [0.9982534646987915, 1, 0.99628591537475586],
+      "min": [-0.99591684341430664, -1, -0.99936264753341675],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 955,
+      "max": [0.875, 1],
+      "min": [0, 0],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7640,
+      "componentType": 5126,
+      "count": 955,
+      "max": [1, 1],
+      "min": [-5.5511151231257827e-17, -0.021271616220474243],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1659,
+      "max": [954],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22920,
+      "componentType": 5126,
+      "count": 2088,
+      "max": [-3.491175651550293, 7.0949711799621582, -0.77572059631347656],
+      "min": [-11.879817962646484, 4.6782317161560059, -3.6468935012817383],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47976,
+      "componentType": 5126,
+      "count": 2088,
+      "max": [0.99387532472610474, 1, 0.99999982118606567],
+      "min": [-0.99387294054031372, -0.99996930360794067, -0.9996609091758728],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15280,
+      "componentType": 5126,
+      "count": 2088,
+      "max": [1, 1.0000001192092896],
+      "min": [0, 0],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31984,
+      "componentType": 5126,
+      "count": 2088,
+      "max": [0.37859675288200378, 0.64428257942199707],
+      "min": [0, 0],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6636,
+      "componentType": 5125,
+      "count": 3471,
+      "max": [2087],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 73032,
+      "componentType": 5126,
+      "count": 4715,
+      "max": [0.53286266326904297, 5.4268455505371094, 3.1636972427368164],
+      "min": [-18.81781005859375, -7.2601051330566406, -6.8775496482849121],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 129612,
+      "componentType": 5126,
+      "count": 4715,
+      "max": [0.99409234523773193, 1, 0.99902051687240601],
+      "min": [-0.99387937784194946, -1, -0.99983340501785278],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 48688,
+      "componentType": 5126,
+      "count": 4715,
+      "max": [1, 1.0000001192092896],
+      "min": [0, 0],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 86408,
+      "componentType": 5126,
+      "count": 4715,
+      "max": [1.0000001192092896, 0.82978582382202148],
+      "min": [-5.5511151231257827e-17, 0],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 20520,
+      "componentType": 5125,
+      "count": 9795,
+      "max": [4714],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 186192,
+      "componentType": 5126,
+      "count": 24980,
+      "max": [-3.2894563674926758, 5.7123041152954102, 2.6563010215759277],
+      "min": [-20.263071060180664, -6.7670383453369141, -5.6247906684875488],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 485952,
+      "componentType": 5126,
+      "count": 24980,
+      "max": [0.99998629093170166, 1, 0.99542856216430664],
+      "min": [-0.99999624490737915, -1, -0.99997794628143311],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 124128,
+      "componentType": 5126,
+      "count": 24980,
+      "max": [0.98918026685714722, 1.0000002384185791],
+      "min": [-0.010295534506440163, 0],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 323968,
+      "componentType": 5126,
+      "count": 24980,
+      "max": [0.90944492816925049, 0.76421856880187988],
+      "min": [0, 0],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 59700,
+      "componentType": 5125,
+      "count": 45054,
+      "max": [24979],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 785712,
+      "componentType": 5126,
+      "count": 224,
+      "max": [-0.19988250732421875, 4.572662353515625, 2.4012455940246582],
+      "min": [-17.005928039550781, -4.9743204116821289, -5.2566499710083008],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 788400,
+      "componentType": 5126,
+      "count": 224,
+      "max": [2.9657462619070429e-6, 1, 0.98778730630874634],
+      "min": [-0.10985691100358963, 0.1104893758893013, -2.7160219815414166e-6],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 523808,
+      "componentType": 5126,
+      "count": 224,
+      "max": [0.85523957014083862, 1],
+      "min": [0.19662010669708252, 0.11087413877248764],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 525600,
+      "componentType": 5126,
+      "count": 224,
+      "max": [0, 0],
+      "min": [0, 0],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 239916,
+      "componentType": 5125,
+      "count": 354,
+      "max": [223],
+      "min": [0],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "LUX4D (https://sketchfab.com/LUX4D)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/schillerplatz-18-mainz-0af5fa67a7c149dbb9e369b94e550756",
+      "title": "Schillerplatz 18 Mainz"
+    },
+    "generator": "Sketchfab-10.10.1-rc1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 241332,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 527392,
+      "byteOffset": 241332,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 791088,
+      "byteOffset": 768724,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1559812,
+      "uri": "building3.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "main",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.26077299999999998, 0.18215100000000001, 0.19907900000000001, 1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.83333299999999999
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "rahmen",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.141012, 0.082618800000000006, 0.095305399999999998, 1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.83333299999999999
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.0020904000000000001, 0.0020904000000000001, 0.0020904000000000001
+      ],
+      "name": "fenster",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.80000000000000004, 0.80000000000000004, 0.80000000000000004,
+          0.73662574005352166
+        ],
+        "metallicFactor": 0.34722008613465621,
+        "roughnessFactor": 0.093794378401166001
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "dach",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0122168, 0.0062839999999999997, 0.010182399999999999, 1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.95925899999999997
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "metal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.214034, 0.17663000000000001, 0.20025000000000001, 1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TEXCOORD_0": 17,
+            "TEXCOORD_1": 18
+          },
+          "indices": 19,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22,
+            "TEXCOORD_1": 23
+          },
+          "indices": 24,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [1],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [-0.70710678118654746, -0, -0, 0.70710678118654757]
+    },
+    {
+      "children": [2],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [3],
+      "name": "root"
+    },
+    {
+      "children": [4],
+      "matrix": [
+        1, 0, 0, 0, 0, 2.2204460492503131e-16, 1, 0, 0, -1,
+        2.2204460492503131e-16, 0, 0, 0, 0, 1
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [5, 6, 7, 8, 9],
+      "matrix": [
+        0.11053087483069268, -0.99387269089615327, -3.5169717027550007e-8, 0,
+        2.3645107325886983e-5, 2.5942403939493985e-6, 0.99999999971708942, 0,
+        -0.99387269061488492, -0.11053087480025398, 2.3786970104744398e-5, 0,
+        1.3283119201660156, 0, 0.31513795256614685, 1
+      ],
+      "name": "Haus_0"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    },
+    {
+      "mesh": 3,
+      "name": ""
+    },
+    {
+      "mesh": 4,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [0]
+    }
+  ]
+}
