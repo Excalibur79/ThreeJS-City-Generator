@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ThreeJS-City-Generator/static/css/main.327a258b.chunk.css",
+    "main.js": "/ThreeJS-City-Generator/static/js/main.9b425a96.chunk.js",
+    "main.js.map": "/ThreeJS-City-Generator/static/js/main.9b425a96.chunk.js.map",
+    "runtime-main.js": "/ThreeJS-City-Generator/static/js/runtime-main.ad869949.js",
+    "runtime-main.js.map": "/ThreeJS-City-Generator/static/js/runtime-main.ad869949.js.map",
+    "static/js/2.c81f701d.chunk.js": "/ThreeJS-City-Generator/static/js/2.c81f701d.chunk.js",
+    "static/js/2.c81f701d.chunk.js.map": "/ThreeJS-City-Generator/static/js/2.c81f701d.chunk.js.map",
+    "static/js/3.9c81975c.chunk.js": "/ThreeJS-City-Generator/static/js/3.9c81975c.chunk.js",
+    "static/js/3.9c81975c.chunk.js.map": "/ThreeJS-City-Generator/static/js/3.9c81975c.chunk.js.map",
+    "index.html": "/ThreeJS-City-Generator/index.html",
+    "static/css/main.327a258b.chunk.css.map": "/ThreeJS-City-Generator/static/css/main.327a258b.chunk.css.map",
+    "static/js/2.c81f701d.chunk.js.LICENSE.txt": "/ThreeJS-City-Generator/static/js/2.c81f701d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ThreeJS-City-Generator/static/media/logo.6ce24c58.svg",
+    "static/media/road_texture.239adcec.jpg": "/ThreeJS-City-Generator/static/media/road_texture.239adcec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad869949.js",
+    "static/js/2.c81f701d.chunk.js",
+    "static/css/main.327a258b.chunk.css",
+    "static/js/main.9b425a96.chunk.js"
+  ]
+}
